@@ -1,0 +1,4 @@
+[submodule "private-edge-fork"]
+	path = private-edge-fork
+	url = git@github.com:SingularityBlockchain/private-edge-fork.git
+	update = merge
