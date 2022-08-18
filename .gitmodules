@@ -2,3 +2,7 @@
 	path = private-edge-fork
 	url = git@github.com:SingularityBlockchain/private-edge-fork.git
 	update = merge
+[submodule "ve-contracts"]
+	path = ve-contracts
+	url = git@github.com:SingularityBlockchain/ve-contracts.git
+	update = merge
